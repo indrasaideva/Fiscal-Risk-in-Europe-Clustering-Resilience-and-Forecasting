@@ -4,9 +4,6 @@ Clustering, Resilience, and Forecasting
 
 This project builds an interpretable fiscal risk framework for European countries using official government finance data from Eurostat 
 
-Fiscal Risk in Europe_ Clusteri…
-
-.
 
 We combine:
 
