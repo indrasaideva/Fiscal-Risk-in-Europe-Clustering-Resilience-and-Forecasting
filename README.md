@@ -3,8 +3,7 @@ Clustering, Resilience, and Forecasting
 
 📌 Project Overview
 
-This project builds an interpretable fiscal risk framework for European countries using official government finance data from Eurostat 
-[Eurostat](https://ec.europa.eu/eurostat/databrowser/product/page/GOV_10DD_EDPT1)
+This project builds an interpretable fiscal risk framework for European countries using official government finance data from [Eurostat](https://ec.europa.eu/eurostat/databrowser/product/page/GOV_10DD_EDPT1).
 
 We combine:
 
