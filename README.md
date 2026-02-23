@@ -1,4 +1,4 @@
-# 🇪🇺 Fiscal Risk in Europe: Clustering, Resilience & Forecasting
+# EU Fiscal Risk in Europe: Clustering, Resilience & Forecasting
 
 > An end-to-end fiscal risk analytics framework for 27 European countries using 25+ years of official Eurostat government finance data (1995–2024).
 
@@ -102,7 +102,7 @@ pip install pandas numpy scikit-learn statsmodels plotly matplotlib scipy pyyaml
 
 ## ▶️ How to Run
 
-**In Google Colab (recommended):**
+**In Google Colab:**
 - Open `Fiscal_Risk_Europe_Complete.ipynb` directly in Colab and run all cells
 
 **Locally with Jupyter:**
